@@ -2,10 +2,11 @@
 
 Video tutorial : 
 
+This PCB also has a display and 4 buttons which can be used as a remote control for some device as well. You can do anything with the code design your own UI. So, in short, this project has an esp8266 which can give WiFi functionality, LoRa module, 1.8 inch TFT display, 4 push buttons for making a UI. Possibilities with the code are endless.
+
+It can be connected to your smartphone or any computer and it makes that device LoRa-enabled messenger. Now when that will be done you would be able to message any other device using the same LoRa messenger. This all is done without the presence of 4G/LTE/3G/GSM/WiFi/SMS. Which I have done in an earlier project which you can find here: https://www.instructables.com/id/LoRa-Messenger-for-Two-Devices-for-Distances-Up-to/
+
 Display supported and LoRa supported. Buttons on A0 supported, when pressed sends acknowledgement
-
-
-This Project/Circuit is a single channel gateway of LoRa, You can use this PCB as a node as well. The project uses:
 
 There is also an easy to program header under the ESP8266 breakout board to flash the device by connecting FTDI chip.
 

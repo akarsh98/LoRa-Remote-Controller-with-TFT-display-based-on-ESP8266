@@ -1,6 +1,6 @@
 # LoRa-Remote-Controller-with-TFT-display-based-on-ESP8266
 
-Video tutorial : 
+Video tutorial : https://www.youtube.com/watch?v=6WNlQBcGQzI
 
 This PCB also has a display and 4 buttons which can be used as a remote control for some device as well. You can do anything with the code design your own UI. So, in short, this project has an esp8266 which can give WiFi functionality, LoRa module, 1.8 inch TFT display, 4 push buttons for making a UI. Possibilities with the code are endless.
 
